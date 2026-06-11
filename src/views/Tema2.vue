@@ -129,7 +129,7 @@
           
         h5.text-center Enfoque de derechos
         p.mb-0.text-center Reconoce a las personas como sujetos de derechos y promueve su participación en las decisiones que afectan su bienestar y calidad de vida.
-      .col-md.tarjeta.cajon.color-secundario.p-5
+      .col-md.tarjeta.cajon.bg5.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
