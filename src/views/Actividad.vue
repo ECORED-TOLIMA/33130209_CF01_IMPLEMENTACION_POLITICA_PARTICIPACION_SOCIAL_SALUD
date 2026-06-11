@@ -19,9 +19,9 @@ export default {
   data: () => ({
     cuestionario: {
       tema: 'Fundamentos normativos de la participación social en salud',
-      titulo: 'Desafío Ciudadano en Salud',
+      titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Evaluar la apropiación de los conocimientos relacionados con el derecho a la salud, el marco normativo, la Ley Estatutaria de Salud, la Política de Participación Social en Salud y los mecanismos de participación ciudadana.',
+        '<b>Objetivo:</b> evaluar la apropiación de los conocimientos relacionados con el derecho a la salud, el marco normativo, la Ley Estatutaria de Salud, la Política de Participación Social en Salud y los mecanismos de participación ciudadana.',
       barajarPreguntas: true,
       titulo_aprobado: '¡Buen trabajo!',
       titulo_reprobado: 'Vuelva a intentarlo.',
