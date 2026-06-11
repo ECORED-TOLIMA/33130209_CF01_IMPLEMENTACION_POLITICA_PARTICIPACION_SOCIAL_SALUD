@@ -1,0 +1,40 @@
+<template lang="pug">
+.curso-main-container.pb-3
+  BannerInterno
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
+      .titulo-principal__numero
+        span 4
+      h1 Implementación de la participación social en salud
+
+    Separador
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+      h2 4.1 Etapas de implementación
+
+    Separador
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+      h2 4.2 Estructura organizativa
+
+    Separador
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
+      h2 4.3 Mecanismos de participación social
+</template>
+
+<script>
+export default {
+  name: 'Tema4',
+  data: () => ({
+    // variables de vue
+  }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
+}
+</script>
+
+<style lang="sass"></style>
