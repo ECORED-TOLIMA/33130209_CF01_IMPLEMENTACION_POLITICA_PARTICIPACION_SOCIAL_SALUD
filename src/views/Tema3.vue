@@ -27,7 +27,7 @@
           p(numero="5" titulo="Con universalidad")
             | Establece que todas las personas deben ser reconocidas como titulares del derecho a la salud. Este principio orienta la acción del Estado hacia la protección de la población y la garantía de condiciones dignas de atención.
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-auto
+      .col-lg-auto.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema3/img3.svg', alt='')
       .col-lg-8
@@ -49,12 +49,12 @@
       h2 3.1 Ley Estatutaria de Salud
     p La Ley Estatutaria 1751 de 2015 constituye el marco normativo principal que regula el derecho fundamental a la salud en Colombia, estableciendo su carácter autónomo, irrenunciable y de aplicación inmediata. Esta norma reconoce la salud como un derecho inherente a la dignidad humana y define las condiciones necesarias para su garantía, orientadas a asegurar el acceso a servicios de salud de manera integral y sin barreras (Congreso de la República de Colombia, 2015).
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4
+      .col-lg-4.col-10.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema3/img5.png', alt='')
       .col-lg-8
         .row.mb-2
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema3/img6.svg', alt='')
           .col-lg-10
@@ -97,7 +97,7 @@
       .col-lg-10
         .p-4.cajon.color-secundario
           .row.justify-content-center.align-items-center
-            .col-lg-2
+            .col-lg-2.d-none.d-lg-block
               figure
                 img(src='@/assets/curso/temas/tema3/img13.svg', alt='')
             .col-lg-10
@@ -112,7 +112,7 @@
           img(src='@/assets/curso/temas/tema3/img14.png', alt='')
       .col-lg-7.tarjeta.color-primario.p-4
         .row
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure.mb-2
               img(src='@/assets/curso/temas/tema3/img15.svg', alt='')
           .col-lg-12

@@ -21,7 +21,7 @@
       .tarjeta.tarjeta--blanco.p-4
         PasosB.color-acento-contenido
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img2.png"  alt="Imagen decorativa")
@@ -29,7 +29,7 @@
               h5 Intervención ciudadana
               p.mb-0 permite que las personas y organizaciones participen en espacios de diálogo, consulta y decisión sobre asuntos de salud. Su finalidad es aportar necesidades, experiencias y propuestas que orienten acciones pertinentes para la comunidad y el territorio local colombiano. 
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img3.png"  alt="Imagen decorativa")
@@ -37,7 +37,7 @@
               h5 Control social
               p.mb-0 facilita el seguimiento ciudadano a la gestión pública, al uso de los recursos y al cumplimiento de las acciones en salud. Este ejercicio fortalece la transparencia, la rendición de cuentas y la confianza entre instituciones y comunidad organizada. 
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img4.png"  alt="Imagen decorativa")
@@ -45,7 +45,7 @@
               h5 Construcción colectiva
               p.mb-0 promueve la identificación de necesidades y la búsqueda de soluciones mediante el diálogo entre ciudadanía, organizaciones sociales e instituciones. Esta forma de trabajo permite responder mejor a los problemas de salud desde la experiencia y realidad del territorio. 
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img5.png"  alt="Imagen decorativa")
@@ -53,7 +53,7 @@
               h5 Corresponsabilidad
               p.mb-0 reconoce que la garantía del derecho a la salud requiere compromisos compartidos entre el Estado, las instituciones y la ciudadanía. Cada actor aporta desde su función para fortalecer el cuidado, la participación y el bienestar colectivo comunitario en salud. 
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img6.png"  alt="Imagen decorativa")
@@ -69,7 +69,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 2.1 Concepto de participación social en salud
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-1
+      .col-lg-1.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema2/img7.svg', alt='')
       .col-lg-11
@@ -96,7 +96,7 @@
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/temas/tema2/img10.svg', alt='Figura que presenta cinco componentes de la participación social en salud: intervención activa de la ciudadanía, articulación entre instituciones y comunidades, control social, educación y comunicación para la salud, y acciones colectivas orientadas al bienestar. ')
-        .d-block.d-lg-none
+        .d-block.d-lg-none.mb-4
           figure
             img(src='@/assets/curso/temas/tema2/img10_1.svg', alt='Figura que presenta cinco componentes de la participación social en salud: intervención activa de la ciudadanía, articulación entre instituciones y comunidades, control social, educación y comunicación para la salud, y acciones colectivas orientadas al bienestar.')
         .p-4.cajon.color-secundario
@@ -106,11 +106,11 @@
       h2 2.2 Marco conceptual de la participación social
     p Para comprender la participación social en salud en toda su dimensión, es necesario analizar los enfoques conceptuales que orientan su desarrollo. Estos enfoques permiten interpretar la participación como un proceso integral que articula la acción ciudadana con la gestión pública, favoreciendo la construcción de políticas orientadas al bienestar colectivo y al fortalecimiento del sistema de salud.
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-5
+      .col-lg-5.order-2.order-lg-1
         p El marco conceptual de la participación social en salud se fundamenta en principios asociados a la democracia participativa, el enfoque de derechos y la corresponsabilidad entre el Estado y la ciudadanía. Desde esta perspectiva, la participación se concibe como un proceso dinámico e incluyente que promueve la intervención activa de la población en los procesos de planeación, ejecución, seguimiento y evaluación de las políticas públicas en salud (Ministerio de Salud y Protección Social, 2017).
         .p-4.cajon.color-primario
           p.mb-0 La participación social en salud fortalece la incidencia ciudadana en la gestión pública, el control social y la construcción colectiva de soluciones orientadas al bienestar de la población.
-      .col-lg-5
+      .col-lg-5.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema2/img11.png', alt='')
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4
@@ -158,7 +158,7 @@
         .p-4.cajon.color-secundario.mb-4
           p Los enfoques que orientan la participación social en salud permiten comprender su carácter integral y su relación con la inclusión, la equidad y la garantía de derechos. Desde esta perspectiva, la participación supera el acceso a la información y promueve la incidencia activa de la ciudadanía en la toma de decisiones y en la construcción colectiva de políticas públicas.
         .row.justify-content-center.align-items-center
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema2/img17.svg', alt='')
           .col-lg-10
@@ -198,7 +198,7 @@
       .tarjeta.tarjeta--blanco.p-4
         PasosB.color-acento-contenido
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img20.png"  alt="Imagen decorativa")
@@ -206,7 +206,7 @@
               h5 Fortalecer el derecho a la salud
               p.mb-0 Promueve que la ciudadanía conozca sus derechos, deberes y mecanismos de participación para incidir en su garantía y protección. Este objetivo favorece decisiones informadas y mayor apropiación del sistema de salud. Ejemplo: una comunidad participa en una jornada informativa sobre derechos en salud y rutas de atención.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img21.png"  alt="Imagen decorativa")
@@ -214,7 +214,7 @@
               h5 Promover la incidencia ciudadana
               p.mb-0 Facilita la participación de la comunidad en espacios de diálogo, concertación y toma de decisiones sobre políticas públicas en salud. Su propósito es que las necesidades territoriales sean escuchadas y consideradas. Ejemplo: líderes comunitarios presentan propuestas ante una mesa municipal para mejorar la atención en salud rural.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img22.png"  alt="Imagen decorativa")
@@ -222,7 +222,7 @@
               h5 Impulsar el control social
               p.mb-0 Permite que la ciudadanía realice seguimiento a la gestión pública, al uso de los recursos y al funcionamiento de los servicios de salud. Este proceso fortalece la transparencia y la confianza institucional. Ejemplo: una veeduría ciudadana revisa el cumplimiento de compromisos adquiridos por una entidad de salud.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img23.png"  alt="Imagen decorativa")
@@ -230,7 +230,7 @@
               h5 Fortalecer capacidades comunitarias
               p.mb-0 Busca desarrollar habilidades organizativas, comunicativas y participativas en la población, para que pueda intervenir de manera responsable en asuntos de salud. Este objetivo promueve liderazgo y trabajo colectivo. Ejemplo: una comunidad recibe formación para organizar comités de participación y priorizar necesidades en salud.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img24.png"  alt="Imagen decorativa")
@@ -238,7 +238,7 @@
               h5 Fomentar educación y comunicación
               p.mb-0 Promueve procesos formativos y comunicativos que permiten comprender problemas de salud, compartir información clara y orientar soluciones colectivas. Su aplicación mejora la participación informada. Ejemplo: una institución desarrolla piezas educativas sobre prevención, autocuidado y canales de participación comunitaria en salud.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema2/img25.png"  alt="Imagen decorativa")
@@ -248,7 +248,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-10
         .row.mb-4
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema2/img26.svg', style="width: 90px; height: auto;", alt='')
           .col-lg-10

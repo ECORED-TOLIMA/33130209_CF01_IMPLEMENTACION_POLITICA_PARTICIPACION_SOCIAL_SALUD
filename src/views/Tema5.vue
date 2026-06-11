@@ -15,11 +15,11 @@
           img(src='@/assets/curso/temas/tema5/img2.png', alt='')
       .col-lg-7.tarjeta.color-primario.p-4
         .row
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure.mb-2
               img(src='@/assets/curso/temas/tema5/img3.svg', alt='')
           .col-lg-12
-            p El desarrollo de estas acciones requiere la articulación entre instituciones, organizaciones sociales y ciudadanía, con el fin de generar condiciones que favorezcan una participación informada, organizada y con capacidad de incidencia. La implementación efectiva no se limita a la creación de espacios de participación, sino que implica el fortalecimiento de capacidades y el uso de mecanismos que garanticen la intervención real de la población.
+            p.mb-0 El desarrollo de estas acciones requiere la articulación entre instituciones, organizaciones sociales y ciudadanía, con el fin de generar condiciones que favorezcan una participación informada, organizada y con capacidad de incidencia. La implementación efectiva no se limita a la creación de espacios de participación, sino que implica el fortalecimiento de capacidades y el uso de mecanismos que garanticen la intervención real de la población.
     p Para avanzar en este proceso, es necesario reconocer algunos elementos que permiten orientar la implementación de manera organizada:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.BG04.p-4
@@ -84,7 +84,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La implementación de la participación social en salud se desarrolla a través de un proceso estructurado que permite organizar la intervención de la ciudadanía en la gestión del sistema de salud. Este proceso no es lineal, sino dinámico, ya que requiere adaptación a las condiciones del territorio, a las características de la población y a la capacidad institucional existente. Su adecuada aplicación garantiza que la participación trascienda lo formal y se consolide como un mecanismo efectivo de incidencia en la toma de decisiones (Ministerio de Salud y Protección Social, 2017).
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-auto
+      .col-lg-auto.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema5/img11.svg', alt='')
       .col-lg-8
@@ -111,7 +111,7 @@
         .p-4.cajon.color-secundario.mb-4
           p.mb-0 La organización de estos aspectos permite comprender que la información y la formación son condiciones necesarias para una participación efectiva. Cuando la ciudadanía conoce sus derechos, comprende el funcionamiento del sistema y reconoce los mecanismos disponibles, puede intervenir de manera más activa, responsable y pertinente en la gestión pública del territorio.
         .row.justify-content-center
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema5/img13.svg', alt='')
           .col-lg-10
@@ -121,7 +121,7 @@
       .tarjeta.tarjeta--blanco.p-4
         PasosB.color-acento-contenido
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema5/img14.png"  alt="Imagen decorativa")
@@ -129,7 +129,7 @@
               h5 Identificación de actores y organizaciones del territorio
               p.mb-0 Consiste en reconocer las personas, grupos comunitarios, instituciones y organizaciones sociales que intervienen en los procesos participativos. Esta etapa permite comprender las dinámicas del territorio y establecer relaciones de trabajo. Ejemplo: una secretaría de salud identifica juntas de acción comunal, líderes sociales y asociaciones de usuarios.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema5/img15.png"  alt="Imagen decorativa")
@@ -137,7 +137,7 @@
               h5 Información y formación para la participación
               p.mb-0 Busca fortalecer los conocimientos y habilidades de la ciudadanía para intervenir de manera informada en los espacios de participación. Incluye orientación sobre derechos, deberes, rutas de atención y mecanismos disponibles. Ejemplo: una entidad desarrolla talleres comunitarios sobre participación social, control ciudadano y funcionamiento del sistema.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema5/img16.png"  alt="Imagen decorativa")
@@ -145,7 +145,7 @@
               h5 Generación de espacios de diálogo y concertación
               p.mb-0 Promueve escenarios donde la ciudadanía, las instituciones y las organizaciones sociales pueden expresar necesidades, analizar problemáticas y construir acuerdos. Esta etapa fortalece la confianza y la toma de decisiones compartidas. Ejemplo: una mesa territorial reúne a la comunidad y a las entidades para priorizar acciones de mejora.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema5/img17.png"  alt="Imagen decorativa")
@@ -161,7 +161,7 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 5.2 Niveles de desarrollo de la participación
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4
+      .col-lg-4.col-8.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema5/img18.png', alt='')
       .col-lg-8
@@ -211,12 +211,12 @@
         .p-4.cajon.color-primario.mb-4
           p.mb-0 La estructura organizativa de la participación social permite articular instituciones, comunidad y actores territoriales para fortalecer la gestión pública, promover el control ciudadano y responder de manera pertinente a las necesidades de la población.
         .row.justify-content-center
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema5/img23.svg', alt='')
           .col-lg-10
             p En conjunto, estos niveles permiten comprender que la participación social requiere coordinación, organización y corresponsabilidad entre los diferentes actores del sistema. Su articulación favorece procesos más ordenados, transparentes y sostenibles, en los que la ciudadanía puede incidir de manera informada en las decisiones que afectan su bienestar.
-    p Para comprender la organización de la participación social en los diferentes niveles del sistema, se describen las responsabilidades del nivel nacional, departamental, municipal y comunitario. Esta explicación permite reconocer cómo se coordinan las acciones institucionales y ciudadanas para fortalecer la gestión participativa en los territorios.
+    p.mb-4 Para comprender la organización de la participación social en los diferentes niveles del sistema, se describen las responsabilidades del nivel nacional, departamental, municipal y comunitario. Esta explicación permite reconocer cómo se coordinan las acciones institucionales y ciudadanas para fortalecer la gestión participativa en los territorios.
     
     .row.mb-4
       .col-md-6.col-xl.mb-4.mb-xl-0
@@ -259,7 +259,7 @@
         .p-4.cajon.color-secundario
           p.mb-0 La organización por niveles permite identificar la distribución de responsabilidades y funciones dentro de la estructura participativa. Esta articulación facilita la implementación de procesos más efectivos, en los cuales las decisiones se construyen de manera coordinada y responden a las necesidades del territorio.
     .row.justify-content-center
-      .col-lg-4
+      .col-lg-4.col-8.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema5/img23.png', alt='')
       .col-lg-8
@@ -267,7 +267,7 @@
         .p-4.cajon.color-primario.mb-4
           p La consolidación de esta estructura permite avanzar hacia una gestión más democrática, organizada y cercana a la población. Su funcionamiento adecuado contribuye a fortalecer el control social, la corresponsabilidad y la participación informada en los procesos que inciden en el bienestar colectivo.
         .row.justify-content-center
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema5/img24.svg', alt='')
           .col-lg-10
@@ -316,7 +316,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .row.justify-content-center.p-4.cajon.color-secundario
-          .col-lg-2
+          .col-lg-2.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema5/img26.svg', alt='')
           .col-lg-10

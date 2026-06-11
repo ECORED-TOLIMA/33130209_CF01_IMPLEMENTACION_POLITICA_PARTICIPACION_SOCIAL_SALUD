@@ -7,7 +7,7 @@
         span 4
       h1 Implementación de la participación social en salud
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4
+      .col-lg-4.col-8.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema4/img1.png', alt='')
       .col-lg-8
@@ -15,7 +15,7 @@
         .p-4.cajon.color-secundario.mb-4
           p.mb-0 Este marco político busca consolidar procesos participativos más efectivos, superando enfoques limitados a la información o la consulta. De esta manera, promueve una participación activa, organizada y con capacidad de transformación en los diferentes niveles del sistema de salud, de acuerdo con los lineamientos establecidos por el Ministerio de Salud y Protección Social.
         .row.justify-content-center
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema4/img2.svg', alt='')
           .col-lg-10
@@ -23,7 +23,7 @@
     p Para comprender mejor su alcance, la Política de Participación Social en Salud orienta su implementación a partir de los siguientes aspectos generales:
     .BG03.px-5.p-5.mb-4
       .row.justify-content-center.align-items-center
-        .col-lg-8
+        .col-lg-8.order-2.order-lg-1
           ol.lista-ol--cuadro.lista-ol--separador
             li 
               .lista-ol--cuadro__vineta
@@ -45,7 +45,7 @@
               .lista-ol--cuadro__vineta
                 span E
               | Construcción colectiva de soluciones orientadas al bienestar, la equidad y la garantía del derecho a la salud.
-        .col-lg-4
+        .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
           figure
             img(src='@/assets/curso/temas/tema4/img3.svg', alt='')
     p Estos elementos permiten reconocer que la Política de Participación Social en Salud no se limita a establecer orientaciones normativas, sino que propone una ruta para fortalecer la participación ciudadana como práctica organizada, corresponsable y vinculada a la gestión pública en salud. A continuación, se presentan algunos aspectos clave para comprender su aplicación:
@@ -72,7 +72,7 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 4.1 Etapas de implementación
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-1
+      .col-lg-1.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema4/img5.svg', alt='')
       .col-lg-11
@@ -88,7 +88,7 @@
       .tarjeta.tarjeta--blanco.p-4
         PasosB.color-acento-contenido
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema4/img7.png"  alt="Imagen decorativa")
@@ -96,7 +96,7 @@
               h5 Fortalecimiento de capacidades ciudadanas
               p.mb-0 Promueve el desarrollo de conocimientos, habilidades y criterios para participar de manera informada en los asuntos públicos de salud. Ejemplo: una comunidad recibe formación sobre derechos, deberes y mecanismos de participación para intervenir en espacios de diálogo territorial
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema4/img8.png"  alt="Imagen decorativa")
@@ -104,7 +104,7 @@
               h5 Articulación institucional y comunitaria
               p.mb-0 Favorece el trabajo conjunto entre entidades públicas, organizaciones sociales, líderes comunitarios y ciudadanía. Esta relación permite coordinar acciones, evitar esfuerzos aislados y construir respuestas más pertinentes. Ejemplo: una secretaría de salud convoca a organizaciones comunitarias para priorizar necesidades locales.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema4/img9.png"  alt="Imagen decorativa")
@@ -112,7 +112,7 @@
               h5 Generación de espacios de diálogo
               p.mb-0 Impulsa escenarios de encuentro donde los actores expresan necesidades, analizan problemáticas y proponen alternativas. Estos espacios fortalecen la confianza y la toma de decisiones compartidas. Ejemplo: una mesa municipal de salud revisa dificultades de acceso y acuerda acciones de mejora.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema4/img10.png"  alt="Imagen decorativa")
@@ -120,7 +120,7 @@
               h5 Reconocimiento de la diversidad territorial
               p.mb-0 Permite adaptar las estrategias de participación a las características sociales, culturales, económicas e institucionales de cada contexto. Este enfoque evita respuestas generales y favorece acciones pertinentes. Ejemplo: una zona rural organiza encuentros comunitarios ajustados a sus horarios y condiciones de desplazamiento.
           .row(titulo="")
-            .col-lg-5.col-8.mb-4.mb-lg-0
+            .col-lg-5.col.mb-4.mb-lg-0
               figure
                 img(
                   src="@/assets/curso/temas/tema4/img11.png"  alt="Imagen decorativa")
@@ -136,11 +136,11 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 4.2 Estructura organizativa
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.order-2.order-lg-1
         p La participación social se fundamenta en principios que orientan su implementación y garantizan coherencia con el enfoque de derechos. Estos principios establecen las bases para desarrollar procesos participativos que promuevan la inclusión, la equidad, la transparencia y el respeto por la diversidad en los diferentes contextos del país.
         .p-4.cajon.color-primario
           p.mb-0 Asimismo, estos principios permiten fortalecer la relación entre las instituciones, las organizaciones sociales y la ciudadanía, al promover condiciones para una intervención informada, organizada y corresponsable. Su aplicación contribuye a consolidar escenarios de diálogo, seguimiento y toma de decisiones con mayor pertinencia territorial.
-      .col-lg-4
+      .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema4/img12.png', alt='')
     p Dentro de estos principios se destacan elementos que permiten comprender cómo se fortalece la participación social y cómo se orienta la acción institucional y comunitaria en los territorios:
@@ -183,7 +183,7 @@
         .p-4.cajon.color-secundario.mb-4
           p.mb-0 En su estructura operativa, esta política pública se desarrolla mediante ejes estratégicos que orientan la acción institucional y comunitaria. Estos ejes permiten organizar las intervenciones, facilitar la implementación de estrategias y garantizar la sostenibilidad de los procesos participativos en los diferentes niveles territoriales.
         .row.justify-content-center.align-items-center
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema4/img17.svg', alt='')
           .col-lg-10

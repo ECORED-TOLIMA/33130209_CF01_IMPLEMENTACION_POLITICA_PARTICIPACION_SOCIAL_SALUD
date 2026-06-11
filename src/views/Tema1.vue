@@ -7,19 +7,19 @@
         span 1
       h1 Marco normativo del derecho a la salud
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4
+      .col-lg-4.col-8.mb-4.mb-lg-0
         figure
           img(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-lg-8
         .row.mb-2
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema1/img7.svg', alt='')
           .col-lg-10
             p.mb-0 El marco normativo de la participación social en salud en Colombia está constituido por disposiciones constitucionales, legales y reglamentarias que reconocen la participación ciudadana como un derecho y un componente esencial de la gestión pública en salud. Estas normas establecen mecanismos, espacios y responsabilidades que permiten a la ciudadanía intervenir en la planeación, ejecución, seguimiento y evaluación de las políticas públicas del sector salud (Congreso de la República de Colombia, 1991; Ministerio de Salud y Protección Social, 1994; Congreso de la República de Colombia, 2015; Ministerio de Salud y Protección Social, 2017).
         .cajon.color-secundario.p-4
           p.mb-0 Desde una perspectiva jerárquica, este marco se fundamenta en la Constitución Política de Colombia de 1991, la cual consagra la participación ciudadana como principio estructural del Estado. A partir de este fundamento, la Ley 100 de 1993, el Decreto 1757 de 1994 y la Ley Estatutaria 1751 de 2015 fortalecen la participación en el sector salud, el control social y la corresponsabilidad entre el Estado, las instituciones y la comunidad (Congreso de la República de Colombia, 1991; Congreso de la República de Colombia, 1993; Ministerio de Salud y Protección Social, 1994; Congreso de la República de Colombia, 2015).
-    p Para comprender mejor el alcance del marco normativo, es necesario reconocer los elementos que lo estructuran dentro del sistema de salud. Estos aspectos permiten identificar cómo las normas orientan la participación ciudadana, fortalecen el control social y promueven la corresponsabilidad entre el Estado, las instituciones y la comunidad:
+    p.mb-4 Para comprender mejor el alcance del marco normativo, es necesario reconocer los elementos que lo estructuran dentro del sistema de salud. Estos aspectos permiten identificar cómo las normas orientan la participación ciudadana, fortalecen el control social y promueven la corresponsabilidad entre el Estado, las instituciones y la comunidad:
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
@@ -109,7 +109,7 @@
                   td 2017
                   td Adopta la Política de Participación Social en Salud y establece lineamientos para fortalecer la participación ciudadana en la gestión del sistema de salud.
     .row.justify-content-center.align-items-center
-      .col-lg-auto
+      .col-lg-auto.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema1/img8.svg', alt='')
       .col-lg-10
@@ -124,7 +124,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Un antecedente fundamental fue la Constitución Política de Colombia de 1991, la cual reconoció la participación ciudadana como principio esencial del Estado y promovió la intervención activa de la comunidad en los asuntos públicos. Posteriormente, la Ley 100 de 1993 organizó el Sistema General de Seguridad Social en Salud e incorporó mecanismos de participación social dentro de su estructura. Este proceso se fortaleció con la Ley Estatutaria 1751 de 2015, que reconoció la salud como un derecho fundamental autónomo e irrenunciable y vinculó la participación ciudadana con su garantía efectiva.
-    p Para comprender mejor la evolución del derecho a la salud y su relación con la participación ciudadana, es importante reconocer algunos antecedentes que marcaron este proceso en Colombia:
+    p.mb-4 Para comprender mejor la evolución del derecho a la salud y su relación con la participación ciudadana, es importante reconocer algunos antecedentes que marcaron este proceso en Colombia:
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.col-8.mb-4.mb-lg-0
         figure
@@ -147,7 +147,7 @@
         .p-4.cajon.color-secundario.mb-4
           p.mb-0 El derecho a la salud en Colombia se ha consolidado mediante un proceso normativo que reconoce la participación ciudadana como una condición necesaria para fortalecer la gestión pública, el control social y la garantía del bienestar colectivo.
         .row
-          .col-lg-auto
+          .col-lg-auto.d-none.d-lg-block
             figure
               img(src='@/assets/curso/temas/tema1/img11.svg', alt='')
           .col-lg-10
@@ -158,7 +158,7 @@
     figure.mb-4
       img(src='@/assets/curso/temas/tema1/img12.png', alt='')
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-1
+      .col-lg-1.d-none.d-lg-block
         figure
           img(src='@/assets/curso/temas/tema1/img13.svg', alt='')
       .col-lg-11
@@ -181,10 +181,10 @@
               p Reconoce la salud como derecho fundamental y vincula la participación ciudadana con su garantía.
             .tarjeta.color-secundario.p-3(x="71%" y="88%" numero="+")
               p Adopta la Política de Participación Social en Salud y orienta su implementación.
-        .d-block.d-lg-none
+        .d-block.d-lg-none.mb-4
           figure
             img(src='@/assets/curso/temas/tema1/img14_1.svg', alt='Matriz RACI para dispositivos móviles')
-        p Estas normas permiten comprender cómo la participación ciudadana se ha consolidado como un componente esencial para fortalecer el derecho a la salud, el control social y la gestión pública en Colombia.
+        p.mb-4 Estas normas permiten comprender cómo la participación ciudadana se ha consolidado como un componente esencial para fortalecer el derecho a la salud, el control social y la gestión pública en Colombia.
         .p-4.cajon.color-primario
           p.mb-0 A partir de este marco normativo, se han desarrollado diversos enfoques y conceptos que orientan la participación social en salud, los cuales permiten comprender el papel de la ciudadanía en la construcción de políticas públicas orientadas al bienestar colectivo. En el siguiente apartado se abordará el concepto de participación social en salud y su marco conceptual.
 </template>
