@@ -120,34 +120,34 @@
     p La articulación de estos componentes permite comprender el derecho a la salud desde una perspectiva integral, en la que no solo se garantiza el acceso a los servicios, sino también la pertinencia y la calidad de la atención. Este enfoque contribuye a reducir inequidades, fortalecer la confianza de la ciudadanía en el sistema de salud y reconocer los elementos que orientan su garantía. A continuación, se presentan los componentes principales del derecho fundamental a la salud:
   
     .row.mb-4
-        .col-md-6.col-xl.mb-4.mb-xl-0
-          .tarjeta-numerada.color-primario.p-5.h-100
-            .tarjeta-numerada__numero
-              .h2 1
-            p.text-center
-              b Disponibilidad
-            p.text-center Existencia suficiente de servicios, instituciones, programas, personal de salud, tecnologías y recursos necesarios para atender las necesidades de la población.
-        .col-md-6.col-xl.mb-4.mb-xl-0
-          .tarjeta-numerada.color-secundario.p-5.h-100
-            .tarjeta-numerada__numero
-              .h2 2
-            p.text-center
-              b Accesibilidad
-            p.text-center Posibilidad real de que todas las personas puedan acceder a los servicios de salud sin discriminación.
-        .col-md-6.col-xl.mb-4.mb-xl-0
-          .tarjeta-numerada.color-acento-contenido.p-5.h-100
-            .tarjeta-numerada__numero
-              .h2 3
-            p.text-center
-              b Aceptabilidad
-            p.text-center Los servicios de salud deben ser respetuosos de los valores culturales, sociales y éticos de las personas y las comunidades.
-        .col-md-6.col-xl.mb-4.mb-xl-0
-          .tarjeta-numerada.color-adicional-1.p-5.h-100
-            .tarjeta-numerada__numero
-              .h2 4
-            p.text-center
-              b Calidad
-            p.text-center Los servicios de salud deben prestarse con estándares científicos, técnicos y humanos que garanticen la seguridad del paciente y la eficacia de las intervenciones en salud.
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-primario.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2 1
+          p.text-center
+            b Disponibilidad
+          p.text-center Existencia suficiente de servicios, instituciones, programas, personal de salud, tecnologías y recursos necesarios para atender las necesidades de la población.
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-secundario.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2 2
+          p.text-center
+            b Accesibilidad
+          p.text-center Posibilidad real de que todas las personas puedan acceder a los servicios de salud sin discriminación.
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-acento-contenido.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2 3
+          p.text-center
+            b Aceptabilidad
+          p.text-center Los servicios de salud deben ser respetuosos de los valores culturales, sociales y éticos de las personas y las comunidades.
+      .col-md-6.col-xl.mb-4.mb-xl-0
+        .tarjeta-numerada.color-adicional-1.p-5.h-100
+          .tarjeta-numerada__numero
+            .h2 4
+          p.text-center
+            b Calidad
+          p.text-center Los servicios de salud deben prestarse con estándares científicos, técnicos y humanos que garanticen la seguridad del paciente y la eficacia de las intervenciones en salud.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
