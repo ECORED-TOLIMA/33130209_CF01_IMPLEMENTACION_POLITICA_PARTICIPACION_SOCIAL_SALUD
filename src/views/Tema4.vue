@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
-      h1 Implementación de la participación social en salud
+      h1 Política de Participación Social en Salud
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-8.mb-4.mb-lg-0
         figure
@@ -70,7 +70,7 @@
           p.mb-0 Después de comprender el propósito general de esta política, es necesario analizar su marco estratégico, ya que este orienta la forma en que se organizan las acciones institucionales y comunitarias. Su aplicación permite fortalecer capacidades ciudadanas, promover escenarios de diálogo y avanzar hacia una participación efectiva en salud.
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 4.1 Etapas de implementación
+      h2 4.1 Marco estratégico
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.d-none.d-lg-block
         figure
@@ -134,7 +134,7 @@
           p.mb-0 A partir de este marco, se requiere reconocer los principios y ejes que orientan la aplicación de esta política pública. Estos elementos permiten identificar las bases de la participación social y las líneas de acción que favorecen su implementación en los territorios.
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 4.2 Estructura organizativa
+      h2 4.2 Principios orientadores y ejes de la política
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-2.order-lg-1
         p La participación social se fundamenta en principios que orientan su implementación y garantizan coherencia con el enfoque de derechos. Estos principios establecen las bases para desarrollar procesos participativos que promuevan la inclusión, la equidad, la transparencia y el respeto por la diversidad en los diferentes contextos del país.

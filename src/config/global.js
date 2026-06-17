@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Fundamentos normativos de la participación social en salud.',
+    Name: 'Fundamentos normativos de la participación social en salud',
     Description:
       'Este componente aborda los fundamentos conceptuales y normativos del derecho a la salud y la participación social en salud en Colombia. Analiza la Ley Estatutaria de Salud, la Política de Participación Social en Salud y su marco estratégico, con el propósito de comprender cómo la ciudadanía, las organizaciones y las instituciones contribuyen al ejercicio del derecho a la salud y al fortalecimiento del bienestar colectivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -83,79 +83,50 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Componentes del derecho a la salud',
+            titulo: 'Componentes del derecho fundamental a la salud',
             hash: 't_3_2',
-          },
-          {
-            numero: '3.3',
-            titulo: 'Política de Participación Social en Salud',
-            hash: 't_3_3',
-          },
-          {
-            numero: '3.4',
-            titulo: 'Marco estratégico',
-            hash: 't_3_4',
-          },
-          {
-            numero: '3.5',
-            titulo: 'Principios orientadores y ejes de la política',
-            hash: 't_3_5',
           },
         ],
       },
+
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Implementación de la participación social en salud',
+        titulo: 'Política de Participación Social en Salud',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Etapas de implementación',
+            titulo: 'Marco estratégico',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'Estructura organizativa',
+            titulo: 'Principios orientadores y ejes de la política',
             hash: 't_4_2',
-          },
-          {
-            numero: '4.3',
-            titulo: 'Mecanismos de participación social',
-            hash: 't_4_3',
           },
         ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Desarrollo y fortalecimiento de la participación social',
+        titulo: 'Implementación de la participación social en salud',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Situación actual: avances y desafíos',
+            titulo: 'Etapas de implementación',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Niveles de desarrollo de la participación',
+            titulo: 'Estructura organizativa',
             hash: 't_5_2',
           },
           {
             numero: '5.3',
-            titulo: 'Estrategias de fortalecimiento',
+            titulo: 'Mecanismos de participación social',
             hash: 't_5_3',
-          },
-          {
-            numero: '5.4',
-            titulo: 'Formación y educación para la participación',
-            hash: 't_5_4',
-          },
-          {
-            numero: '5.5',
-            titulo: 'Rol de las instituciones y la comunidad',
-            hash: 't_5_5',
           },
         ],
       },

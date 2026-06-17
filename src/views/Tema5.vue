@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 5
-      h1 Desarrollo y fortalecimiento de la participación social
+      h1 Implementación de la participación social en salud
     figure.mb-4
       img(src='@/assets/curso/temas/tema5/img1.png', alt='')
     p La implementación de la participación social comprende el conjunto de acciones, procesos y estrategias orientadas a facilitar la intervención de la ciudadanía en la gestión del sistema. Este proceso permite llevar los lineamientos de la política pública a escenarios concretos, en los cuales la comunidad puede ejercer su derecho a participar, aportar propuestas y realizar seguimiento a las decisiones institucionales.
@@ -76,7 +76,7 @@
           p A partir de la relación entre el acceso a los servicios, la participación social y el control ciudadano, se hace necesario comprender cómo se organiza la implementación de estos procesos en los territorios. Para ello, las etapas de implementación permiten orientar la acción institucional y comunitaria de manera progresiva, articulada y coherente con las necesidades de la población.
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 5.1 Situación actual: avances y desafíos
+      h2 5.1 Etapas de implementación
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/img10.png')})`}"
@@ -159,7 +159,7 @@
           p.mb-0 Después de analizar las etapas de implementación, se requiere reconocer la estructura que permite organizar los procesos participativos. Esta organización facilita la articulación entre instituciones, comunidad y actores territoriales, con el propósito de fortalecer la gestión, el seguimiento y la toma de decisiones.
     Separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 5.2 Niveles de desarrollo de la participación
+      h2 5.2 Estructura organizativa
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-4.col-8.mb-4.mb-lg-0
         figure
@@ -274,7 +274,7 @@
             p Una vez reconocida la estructura organizativa de la participación social, resulta necesario analizar los mecanismos que permiten materializarla en espacios concretos de intervención ciudadana. Estos mecanismos facilitan el diálogo, el seguimiento, la vigilancia de la gestión pública y la construcción colectiva de soluciones en los territorios.
     Separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 5.3 Estrategias de fortalecimiento
+      h2 5.3 Mecanismos de participación social
     p La participación social en salud se materializa a través de mecanismos e instancias que permiten a la ciudadanía intervenir de manera activa en la gestión del sistema de salud. Estos mecanismos facilitan la interacción entre las instituciones y la comunidad, promoviendo el ejercicio del control social, la transparencia en la gestión pública y la construcción de respuestas frente a las necesidades en salud.
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4
       .bloque-texto-g__img(

@@ -67,8 +67,10 @@
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema3/img7.svg' alt='AvatarTop')
+        br
         h5.text-center Derecho fundamental a la salud
-        p.text-center Se reconoce la salud como un derecho fundamental autónomo que debe ser garantizado por el Estado y que implica el acceso oportuno, eficaz y de calidad a los servicios de salud.
+        p.mb-5.text-center Se reconoce la salud como un derecho fundamental autónomo que debe ser garantizado por el Estado y que implica el acceso oportuno, eficaz y de calidad a los servicios de salud.
+      
       .tarjeta.BG04.p-4 
         .row.justify-content-center.mb-3
           .col-5
@@ -104,7 +106,7 @@
               p.mb-0 En conjunto, estos elementos permiten comprender que la Ley Estatutaria en Salud no solo reconoce la salud como un derecho fundamental, sino que también establece condiciones para su garantía efectiva. Por ello, su aplicación fortalece el acceso oportuno y equitativo a los servicios, promueve la participación de la ciudadanía y orienta la toma de decisiones públicas hacia el bienestar de la población.
     Separador
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 3.2 Componentes del derecho a la salud
+      h2 3.2 Componentes del derecho fundamental a la salud
     p El derecho fundamental a la salud se estructura a partir de componentes que permiten garantizar su ejercicio efectivo en condiciones de calidad, accesibilidad y equidad. Estos componentes orientan la prestación de los servicios de salud y establecen criterios para evaluar el cumplimiento de este derecho en el sistema de salud.
     .row.justify-content-center.align-items-center.bg4.mb-4
       .col-lg-5

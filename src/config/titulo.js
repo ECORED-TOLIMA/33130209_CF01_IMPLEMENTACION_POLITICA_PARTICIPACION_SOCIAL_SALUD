@@ -1,1 +1,1 @@
-module.exports = 'Fundamentos normativos de la participación social en salud.'
+module.exports = 'Fundamentos normativos de la participación social en salud'

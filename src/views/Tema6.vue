@@ -21,30 +21,36 @@
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema6/img3.svg' alt='AvatarTop')
+        br
         h5.text-center Limitada incidencia de algunos espacios de participación
-        p.text-center No siempre las propuestas de la ciudadanía logran influir en las decisiones institucionales.
+        p.mb-5.text-center No siempre las propuestas de la ciudadanía logran influir en las decisiones institucionales.
+        br
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema6/img4.svg' alt='AvatarTop')
+        br
         h5.text-center Brechas en el acceso a la información
         p.text-center En algunos territorios, la información sobre derechos, mecanismos y procesos participativos no llega de manera clara ni oportuna.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema6/img5.svg' alt='AvatarTop')
+        br
         h5.text-center Debilidades en la formación ciudadana
         p.text-center La falta de orientación limita la capacidad de la comunidad para participar con argumentos, propuestas y conocimiento del sistema.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema6/img6.svg' alt='AvatarTop')
+        br
         h5.text-center Baja articulación entre actores
         p.text-center La coordinación insuficiente entre instituciones, organizaciones sociales y comunidad puede generar acciones aisladas o poco sostenibles.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema6/img7.svg' alt='AvatarTop')
+        br
         h5.text-center Necesidad de seguimiento permanente
         p.text-center Los procesos participativos requieren continuidad, evaluación y ajustes para garantizar resultados reales en beneficio de la población.
     .row.justify-content-center.mb-4
@@ -397,11 +403,11 @@
           p(numero="B" titulo="Fortalecimiento del control social")
             | Favorece el seguimiento ciudadano a la gestión pública y al cumplimiento de los compromisos institucionales.
           p(numero="C" titulo="Análisis de problemáticas")
-            | ayuda a las comunidades a identificar necesidades, causas y posibles soluciones en su territorio.
+            | Ayuda a las comunidades a identificar necesidades, causas y posibles soluciones en su territorio.
           p(numero="D" titulo="Formulación de propuestas")
-            | promueve que la ciudadanía plantee alternativas viables para mejorar las condiciones de salud y bienestar.
+            | Promueve que la ciudadanía plantee alternativas viables para mejorar las condiciones de salud y bienestar.
           p(numero="E" titulo="Incidencia en la gestión pública")
-            | permite que la comunidad participe de manera informada en decisiones que afectan su calidad de vida.
+            | Permite que la comunidad participe de manera informada en decisiones que afectan su calidad de vida.
       .col-lg-5.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema6/img35.png', alt='')

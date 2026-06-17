@@ -18,7 +18,7 @@
           p.mb-0 En la gestión pública en salud, este proceso permite identificar problemas, priorizar necesidades y proponer soluciones desde una perspectiva colectiva. De esta manera, se promueve una gestión más equitativa, incluyente y transparente, en la que la ciudadanía no solo recibe información, sino que también aporta a la planeación, seguimiento y evaluación de las acciones del sistema.
     p Para ampliar la comprensión de este proceso, es necesario reconocer los elementos que permiten a la ciudadanía participar de manera activa en la gestión del sistema de salud. Estos elementos explican cómo la comunidad puede aportar a la identificación de necesidades, al seguimiento de las acciones públicas y a la construcción de soluciones colectivas, de acuerdo con las realidades de cada territorio:
     .BG02.px-5.p-5.mb-4
-      .tarjeta.tarjeta--blanco.p-4
+      .tarjeta.tarjeta--blanco.p-5
         PasosB.color-acento-contenido
           .row(titulo="")
             .col-lg-5.col.mb-4.mb-lg-0
@@ -27,7 +27,7 @@
                   src="@/assets/curso/temas/tema2/img2.png"  alt="Imagen decorativa")
             .col-lg-7
               h5 Intervención ciudadana
-              p.mb-0 permite que las personas y organizaciones participen en espacios de diálogo, consulta y decisión sobre asuntos de salud. Su finalidad es aportar necesidades, experiencias y propuestas que orienten acciones pertinentes para la comunidad y el territorio local colombiano. 
+              p.mb-0 Permite que las personas y organizaciones participen en espacios de diálogo, consulta y decisión sobre asuntos de salud. Su finalidad es aportar necesidades, experiencias y propuestas que orienten acciones pertinentes para la comunidad y el territorio local colombiano. 
           .row(titulo="")
             .col-lg-5.col.mb-4.mb-lg-0
               figure
@@ -35,7 +35,7 @@
                   src="@/assets/curso/temas/tema2/img3.png"  alt="Imagen decorativa")
             .col-lg-7
               h5 Control social
-              p.mb-0 facilita el seguimiento ciudadano a la gestión pública, al uso de los recursos y al cumplimiento de las acciones en salud. Este ejercicio fortalece la transparencia, la rendición de cuentas y la confianza entre instituciones y comunidad organizada. 
+              p.mb-0 Facilita el seguimiento ciudadano a la gestión pública, al uso de los recursos y al cumplimiento de las acciones en salud. Este ejercicio fortalece la transparencia, la rendición de cuentas y la confianza entre instituciones y comunidad organizada. 
           .row(titulo="")
             .col-lg-5.col.mb-4.mb-lg-0
               figure
@@ -43,7 +43,7 @@
                   src="@/assets/curso/temas/tema2/img4.png"  alt="Imagen decorativa")
             .col-lg-7
               h5 Construcción colectiva
-              p.mb-0 promueve la identificación de necesidades y la búsqueda de soluciones mediante el diálogo entre ciudadanía, organizaciones sociales e instituciones. Esta forma de trabajo permite responder mejor a los problemas de salud desde la experiencia y realidad del territorio. 
+              p.mb-0 Promueve la identificación de necesidades y la búsqueda de soluciones mediante el diálogo entre ciudadanía, organizaciones sociales e instituciones. Esta forma de trabajo permite responder mejor a los problemas de salud desde la experiencia y realidad del territorio. 
           .row(titulo="")
             .col-lg-5.col.mb-4.mb-lg-0
               figure
@@ -51,7 +51,7 @@
                   src="@/assets/curso/temas/tema2/img5.png"  alt="Imagen decorativa")
             .col-lg-7
               h5 Corresponsabilidad
-              p.mb-0 reconoce que la garantía del derecho a la salud requiere compromisos compartidos entre el Estado, las instituciones y la ciudadanía. Cada actor aporta desde su función para fortalecer el cuidado, la participación y el bienestar colectivo comunitario en salud. 
+              p.mb-0 Reconoce que la garantía del derecho a la salud requiere compromisos compartidos entre el Estado, las instituciones y la ciudadanía. Cada actor aporta desde su función para fortalecer el cuidado, la participación y el bienestar colectivo comunitario en salud. 
           .row(titulo="")
             .col-lg-5.col.mb-4.mb-lg-0
               figure
@@ -59,7 +59,7 @@
                   src="@/assets/curso/temas/tema2/img6.png"  alt="Imagen decorativa")
             .col-lg-7
               h5 Incidencia en decisiones
-              p.mb-0 permite que la comunidad influya en la planeación, ejecución, seguimiento y evaluación de políticas o acciones en salud. Esta participación busca que las decisiones públicas respondan a necesidades reales y favorezcan mayor equidad e inclusión territorial efectiva.
+              p.mb-0 Permite que la comunidad influya en la planeación, ejecución, seguimiento y evaluación de políticas o acciones en salud. Esta participación busca que las decisiones públicas respondan a necesidades reales y favorezcan mayor equidad e inclusión territorial efectiva.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.cajon.color-primario
@@ -95,15 +95,15 @@
           ImagenInfografica.color-acento-botones
             template(v-slot:imagen)
               figure
-                img(src='@/assets/curso/temas/tema2/img10.svg', alt='Figura que presenta cinco componentes de la participación social en salud: intervención activa de la ciudadanía, articulación entre instituciones y comunidades, control social, educación y comunicación para la salud, y acciones colectivas orientadas al bienestar. ')
+                img(src='@/assets/curso/temas/tema2/img10.svg', alt='Figura 1. Componentes de la participación social en salud. Figura que presenta cinco componentes de la participación social en salud: intervención activa de la ciudadanía, articulación entre instituciones y comunidades, control social, educación y comunicación para la salud, y acciones colectivas orientadas al bienestar. ')
         .d-block.d-lg-none.mb-4
           figure
-            img(src='@/assets/curso/temas/tema2/img10_1.svg', alt='Figura que presenta cinco componentes de la participación social en salud: intervención activa de la ciudadanía, articulación entre instituciones y comunidades, control social, educación y comunicación para la salud, y acciones colectivas orientadas al bienestar.')
+            img(src='@/assets/curso/temas/tema2/img10_1.svg', alt='Figura 1. Componentes de la participación social en salud. Figura que presenta cinco componentes de la participación social en salud: intervención activa de la ciudadanía, articulación entre instituciones y comunidades, control social, educación y comunicación para la salud, y acciones colectivas orientadas al bienestar.')
         .p-4.cajon.color-secundario
           p.mb-0 En este sentido, la participación social en salud trasciende los procesos informativos o consultivos, y se consolida como un mecanismo de incidencia real en las decisiones relacionadas con la gestión del sistema de salud. Esto permite fortalecer la gobernanza, promover el control social y avanzar hacia un sistema más equitativo, incluyente y orientado a las necesidades de la población.
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-left")
-      h2 2.2 Marco conceptual de la participación social
+      h2 2.2 Marco conceptual y enfoques
     p Para comprender la participación social en salud en toda su dimensión, es necesario analizar los enfoques conceptuales que orientan su desarrollo. Estos enfoques permiten interpretar la participación como un proceso integral que articula la acción ciudadana con la gestión pública, favoreciendo la construcción de políticas orientadas al bienestar colectivo y al fortalecimiento del sistema de salud.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-5.order-2.order-lg-1
