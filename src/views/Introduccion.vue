@@ -27,8 +27,8 @@
     p.mb-4 Para comprender la importancia del contenido y los temas abordados, se recomienda acceder al siguiente video:
     figure.mb-3
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="1337" height="752" src="https://www.youtube.com/embed/i1uW-B69McE" title="Fundamentos normativos de la participación social en salud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+
 </template>
 
 <script>

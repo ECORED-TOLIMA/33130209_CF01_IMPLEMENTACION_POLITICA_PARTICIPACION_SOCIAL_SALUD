@@ -533,7 +533,7 @@
             .col-lg-6
               TarjetaAudio.color-primario.mb-3(
                 texto="Instituciones y comunidad: trabajando juntos por la participación en salud"
-                :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                :audio="require('@/assets/curso/temas/audio/Podcast_CF1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
