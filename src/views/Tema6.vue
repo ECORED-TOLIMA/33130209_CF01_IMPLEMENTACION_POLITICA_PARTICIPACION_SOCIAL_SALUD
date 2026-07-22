@@ -23,7 +23,7 @@
             img(src='@/assets/curso/temas/tema6/img3.svg' alt='AvatarTop')
         br
         h5.text-center Limitada incidencia de algunos espacios de participación
-        p.mb-5.text-center No siempre las propuestas de la ciudadanía logran influir en las decisiones institucionales.
+        p.mb-5 No siempre las propuestas de la ciudadanía logran influir en las decisiones institucionales.
         br
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
@@ -31,28 +31,28 @@
             img(src='@/assets/curso/temas/tema6/img4.svg' alt='AvatarTop')
         br
         h5.text-center Brechas en el acceso a la información
-        p.text-center En algunos territorios, la información sobre derechos, mecanismos y procesos participativos no llega de manera clara ni oportuna.
+        p En algunos territorios, la información sobre derechos, mecanismos y procesos participativos no llega de manera clara ni oportuna.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema6/img5.svg' alt='AvatarTop')
         br
         h5.text-center Debilidades en la formación ciudadana
-        p.text-center La falta de orientación limita la capacidad de la comunidad para participar con argumentos, propuestas y conocimiento del sistema.
+        p La falta de orientación limita la capacidad de la comunidad para participar con argumentos, propuestas y conocimiento del sistema.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema6/img6.svg' alt='AvatarTop')
         br
         h5.text-center Baja articulación entre actores
-        p.text-center La coordinación insuficiente entre instituciones, organizaciones sociales y comunidad puede generar acciones aisladas o poco sostenibles.
+        p La coordinación insuficiente entre instituciones, organizaciones sociales y comunidad puede generar acciones aisladas o poco sostenibles.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema6/img7.svg' alt='AvatarTop')
         br
         h5.text-center Necesidad de seguimiento permanente
-        p.text-center Los procesos participativos requieren continuidad, evaluación y ajustes para garantizar resultados reales en beneficio de la población.
+        p Los procesos participativos requieren continuidad, evaluación y ajustes para garantizar resultados reales en beneficio de la población.
     .row.justify-content-center.mb-4
       .col-lg-10
         .p-4.cajon.color-secundario
@@ -188,22 +188,22 @@
                   th Reto identificado
               tbody
                 tr
-                  th Limitado conocimiento ciudadano.
+                  td Limitado conocimiento ciudadano.
                   td Parte de la población desconoce sus derechos en salud y los mecanismos de participación disponibles, lo que reduce su intervención en los procesos de decisión.
                 tr
-                  th Débil articulación institucional.
+                  td Débil articulación institucional.
                   td En algunos territorios existe poca coordinación entre las instituciones del sector salud y las organizaciones comunitarias.
                 tr
-                  th Escasa formación en participación.
+                  td Escasa formación en participación.
                   td Falta fortalecer procesos de educación y capacitación dirigidos a líderes comunitarios y ciudadanía.
                 tr
-                  th Participación formal pero no efectiva.
+                  td Participación formal pero no efectiva.
                   td Algunos espacios participativos funcionan de manera formal, pero con poca incidencia real en la toma de decisiones.
                 tr
-                  th Limitaciones de recursos.
+                  td Limitaciones de recursos.
                   td En algunos territorios se presentan restricciones institucionales y logísticas para el desarrollo de procesos participativos.
                 tr
-                  th Baja continuidad de los procesos.
+                  td Baja continuidad de los procesos.
                   td La rotación de actores institucionales o comunitarios puede afectar la sostenibilidad de los espacios de participación.
     .row.justify-content-center.align-items-center.bg4.mb-4
       .col-lg-5
@@ -304,7 +304,7 @@
               img(src='@/assets/curso/temas/tema6/img27.svg', alt='Texto que describa la imagen')
           
         h5.text-center Información y acceso a datos públicos
-        p.mb-0.text-center Permite que la ciudadanía conozca sus derechos, los mecanismos de participación, las decisiones institucionales y los resultados de la gestión pública. Esta estrategia favorece una participación informada y reduce barreras para intervenir en los asuntos del territorio.
+        p.mb-0 Permite que la ciudadanía conozca sus derechos, los mecanismos de participación, las decisiones institucionales y los resultados de la gestión pública. Esta estrategia favorece una participación informada y reduce barreras para intervenir en los asuntos del territorio.
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -312,7 +312,7 @@
               img(src='@/assets/curso/temas/tema6/img28.svg', alt='Texto que describa la imagen')
           
         h5.text-center Organización comunitaria
-        p.mb-0.text-center Fortalece la capacidad de las comunidades para agruparse, identificar necesidades comunes y presentar propuestas ante las instituciones. Su aplicación permite canalizar intereses colectivos, evitar acciones aisladas y consolidar procesos participativos más sostenibles.
+        p.mb-0 Fortalece la capacidad de las comunidades para agruparse, identificar necesidades comunes y presentar propuestas ante las instituciones. Su aplicación permite canalizar intereses colectivos, evitar acciones aisladas y consolidar procesos participativos más sostenibles.
       .col-md.tarjeta.bg1.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -320,7 +320,7 @@
               img(src='@/assets/curso/temas/tema6/img29.svg', alt='Texto que describa la imagen')
           
         h5.text-center Espacios de diálogo territorial
-        p.mb-0.text-center Promueven encuentros entre ciudadanía, organizaciones sociales e instituciones para analizar problemáticas, priorizar necesidades y construir acuerdos. Estos espacios favorecen la confianza, la escucha activa y la toma de decisiones acordes con la realidad local.
+        p.mb-0 Promueven encuentros entre ciudadanía, organizaciones sociales e instituciones para analizar problemáticas, priorizar necesidades y construir acuerdos. Estos espacios favorecen la confianza, la escucha activa y la toma de decisiones acordes con la realidad local.
       .col-md.tarjeta.bg2.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -328,7 +328,7 @@
               img(src='@/assets/curso/temas/tema6/img30.svg', alt='Texto que describa la imagen')
           
         h5.text-center Control social y seguimiento ciudadano
-        p.mb-0.text-center Permite verificar el cumplimiento de compromisos, revisar el uso de recursos públicos y evaluar los resultados de las acciones implementadas. Esta estrategia fortalece la transparencia, la corresponsabilidad y la mejora continua de la gestión pública.
+        p.mb-0 Permite verificar el cumplimiento de compromisos, revisar el uso de recursos públicos y evaluar los resultados de las acciones implementadas. Esta estrategia fortalece la transparencia, la corresponsabilidad y la mejora continua de la gestión pública.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.cajon.color-primario

@@ -35,21 +35,25 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Aumentar la cobertura hospitalaria',
+              texto: 'Aumentar la cobertura hospitalaria.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Mejorar la infraestructura médica',
+              texto: 'Mejorar la infraestructura médica.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Fortalecer la incidencia de la ciudadanía en la gestión del sistema de salud',
+                'Fortalecer la incidencia de la ciudadanía en la gestión del sistema de salud.',
               esCorrecta: true,
             },
-            { id: 'd', texto: 'Reducir costos del sistema', esCorrecta: false },
+            {
+              id: 'd',
+              texto: 'Reducir costos del sistema.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             '¡Correcto! La participación social busca fortalecer la incidencia de la ciudadanía en la gestión del sistema de salud y en la toma de decisiones.',
@@ -63,10 +67,10 @@ export default {
           imagen: imagenActividad(2),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Decreto 1757 de 1994', esCorrecta: false },
-            { id: 'b', texto: 'Ley 1751 de 2015', esCorrecta: true },
-            { id: 'c', texto: 'Ley 100 de 1993', esCorrecta: false },
-            { id: 'd', texto: 'Ley 1438 de 2011', esCorrecta: false },
+            { id: 'a', texto: 'Decreto 1757 de 1994.', esCorrecta: false },
+            { id: 'b', texto: 'Ley 1751 de 2015.', esCorrecta: true },
+            { id: 'c', texto: 'Ley 100 de 1993.', esCorrecta: false },
+            { id: 'd', texto: 'Ley 1438 de 2011.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Muy bien! La Ley 1751 de 2015 establece la salud como un derecho fundamental autónomo.',
@@ -79,20 +83,20 @@ export default {
           imagen: imagenActividad(3),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Reducir personal médico', esCorrecta: false },
+            { id: 'a', texto: 'Reducir personal médico.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Controlar hospitales privados',
+              texto: 'Controlar hospitales privados.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Intervenir en la gestión del sistema de salud',
+              texto: 'Intervenir en la gestión del sistema de salud.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Intervenir en la gestión del sistema de salud',
+              texto: 'Intervenir en la gestión del sistema de salud.',
               esCorrecta: true,
             },
           ],
@@ -108,10 +112,10 @@ export default {
           imagen: imagenActividad(4),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Medicamentos', esCorrecta: false },
-            { id: 'b', texto: 'COPACOS', esCorrecta: true },
-            { id: 'c', texto: 'EPS', esCorrecta: false },
-            { id: 'd', texto: 'Historias clínicas', esCorrecta: false },
+            { id: 'a', texto: 'Medicamentos.', esCorrecta: false },
+            { id: 'b', texto: 'COPACOS.', esCorrecta: true },
+            { id: 'c', texto: 'EPS.', esCorrecta: false },
+            { id: 'd', texto: 'Historias clínicas.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Bien hecho! Los COPACOS son espacios de participación comunitaria en salud.',
@@ -126,14 +130,14 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Corresponsabilidad entre Estado y ciudadanía',
+              texto: 'Corresponsabilidad entre Estado y ciudadanía.',
               esCorrecta: true,
             },
-            { id: 'b', texto: 'Privatización del sistema', esCorrecta: false },
-            { id: 'c', texto: 'Exclusión social', esCorrecta: false },
+            { id: 'b', texto: 'Privatización del sistema.', esCorrecta: false },
+            { id: 'c', texto: 'Exclusión social.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'Centralización de decisiones',
+              texto: 'Centralización de decisiones.',
               esCorrecta: false,
             },
           ],
@@ -148,16 +152,16 @@ export default {
           imagen: imagenActividad(6),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Emergencias médicas', esCorrecta: false },
+            { id: 'a', texto: 'Emergencias médicas.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Participación social en salud',
+              texto: 'Participación social en salud.',
               esCorrecta: true,
             },
-            { id: 'c', texto: 'Medicamentos', esCorrecta: false },
+            { id: 'c', texto: 'Medicamentos.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'Infraestructura hospitalaria',
+              texto: 'Infraestructura hospitalaria.',
               esCorrecta: false,
             },
           ],
@@ -172,10 +176,10 @@ export default {
           imagen: imagenActividad(7),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Reducir participación', esCorrecta: false },
-            { id: 'b', texto: 'Aumentar precios', esCorrecta: false },
-            { id: 'c', texto: 'Vigilar la gestión pública', esCorrecta: true },
-            { id: 'd', texto: 'Eliminar normas', esCorrecta: false },
+            { id: 'a', texto: 'Reducir participación.', esCorrecta: false },
+            { id: 'b', texto: 'Aumentar precios.', esCorrecta: false },
+            { id: 'c', texto: 'Vigilar la gestión pública.', esCorrecta: true },
+            { id: 'd', texto: 'Eliminar normas.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! El control social permite hacer seguimiento a la gestión pública y uso de recursos.',
@@ -189,10 +193,10 @@ export default {
           imagen: imagenActividad(8),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Resolución 2063 de 2017', esCorrecta: true },
-            { id: 'b', texto: 'Decreto 1757 de 2017', esCorrecta: false },
-            { id: 'c', texto: 'Ley 1757 de 2018', esCorrecta: false },
-            { id: 'd', texto: 'Ley 100 de 2017', esCorrecta: false },
+            { id: 'a', texto: 'Resolución 2063 de 2017.', esCorrecta: true },
+            { id: 'b', texto: 'Decreto 1757 de 2017.', esCorrecta: false },
+            { id: 'c', texto: 'Ley 1757 de 2018.', esCorrecta: false },
+            { id: 'd', texto: 'Ley 100 de 2017.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Excelente! La Resolución 2063 de 2017 establece la PPSS.',
@@ -205,14 +209,14 @@ export default {
           imagen: imagenActividad(9),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Reducir participación', esCorrecta: false },
+            { id: 'a', texto: 'Reducir participación.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Fortalecer capacidades ciudadanas',
+              texto: 'Fortalecer capacidades ciudadanas.',
               esCorrecta: true,
             },
-            { id: 'c', texto: 'Limitar la información', esCorrecta: false },
-            { id: 'd', texto: 'Eliminar comunidades', esCorrecta: false },
+            { id: 'c', texto: 'Limitar la información.', esCorrecta: false },
+            { id: 'd', texto: 'Eliminar comunidades.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Busca fortalecer las capacidades de la ciudadanía para participar activamente.',
@@ -225,10 +229,10 @@ export default {
           imagen: imagenActividad(10),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Aislamiento', esCorrecta: false },
-            { id: 'b', texto: 'Incidencia en decisiones', esCorrecta: true },
-            { id: 'c', texto: 'Centralización', esCorrecta: false },
-            { id: 'd', texto: 'Pasividad', esCorrecta: false },
+            { id: 'a', texto: 'Aislamiento.', esCorrecta: false },
+            { id: 'b', texto: 'Incidencia en decisiones.', esCorrecta: true },
+            { id: 'c', texto: 'Centralización.', esCorrecta: false },
+            { id: 'd', texto: 'Pasividad.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Muy bien! La participación implica incidencia real en la toma de decisiones.',
@@ -242,10 +246,10 @@ export default {
           imagen: imagenActividad(1),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Intersectorial', esCorrecta: false },
-            { id: 'b', texto: 'Territorial', esCorrecta: false },
-            { id: 'c', texto: 'Comunitario', esCorrecta: false },
-            { id: 'd', texto: 'De derechos', esCorrecta: true },
+            { id: 'a', texto: 'Intersectorial.', esCorrecta: false },
+            { id: 'b', texto: 'Territorial.', esCorrecta: false },
+            { id: 'c', texto: 'Comunitario.', esCorrecta: false },
+            { id: 'd', texto: 'De derechos.', esCorrecta: true },
           ],
           mensaje_correcto:
             '¡Correcto! El enfoque de derechos reconoce a las personas como sujetos activos.',
@@ -258,12 +262,12 @@ export default {
           imagen: imagenActividad(2),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Privatizar servicios', esCorrecta: false },
-            { id: 'b', texto: 'Reducir normas', esCorrecta: false },
-            { id: 'c', texto: 'Comprar servicios', esCorrecta: false },
+            { id: 'a', texto: 'Privatizar servicios.', esCorrecta: false },
+            { id: 'b', texto: 'Reducir normas.', esCorrecta: false },
+            { id: 'c', texto: 'Comprar servicios.', esCorrecta: false },
             {
               id: 'd',
-              texto: 'Supervisar la gestión pública',
+              texto: 'Supervisar la gestión pública.',
               esCorrecta: true,
             },
           ],
@@ -278,10 +282,10 @@ export default {
           imagen: imagenActividad(3),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Exclusión', esCorrecta: false },
-            { id: 'b', texto: 'Gobernanza en salud', esCorrecta: true },
-            { id: 'c', texto: 'Centralización', esCorrecta: false },
-            { id: 'd', texto: 'Desigualdad', esCorrecta: false },
+            { id: 'a', texto: 'Exclusión.', esCorrecta: false },
+            { id: 'b', texto: 'Gobernanza en salud.', esCorrecta: true },
+            { id: 'c', texto: 'Centralización.', esCorrecta: false },
+            { id: 'd', texto: 'Desigualdad.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Fortalece la gobernanza del sistema de salud.',
@@ -294,10 +298,10 @@ export default {
           imagen: imagenActividad(4),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Medicamentos', esCorrecta: false },
-            { id: 'b', texto: 'Hospitales', esCorrecta: false },
-            { id: 'c', texto: 'Participación ciudadana', esCorrecta: true },
-            { id: 'd', texto: 'Servicios médicos', esCorrecta: false },
+            { id: 'a', texto: 'Medicamentos.', esCorrecta: false },
+            { id: 'b', texto: 'Hospitales.', esCorrecta: false },
+            { id: 'c', texto: 'Participación ciudadana.', esCorrecta: true },
+            { id: 'd', texto: 'Servicios médicos.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Muy bien! Regula los mecanismos de participación democrática.',
@@ -310,10 +314,10 @@ export default {
           imagen: imagenActividad(5),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Ocultar información', esCorrecta: false },
-            { id: 'b', texto: 'Garantizar transparencia', esCorrecta: true },
-            { id: 'c', texto: 'Reducir participación', esCorrecta: false },
-            { id: 'd', texto: 'Eliminar normas', esCorrecta: false },
+            { id: 'a', texto: 'Ocultar información.', esCorrecta: false },
+            { id: 'b', texto: 'Garantizar transparencia.', esCorrecta: true },
+            { id: 'c', texto: 'Reducir participación.', esCorrecta: false },
+            { id: 'd', texto: 'Eliminar normas.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! El control social promueve transparencia en la gestión pública.',
@@ -328,12 +332,12 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Construir soluciones colectivas',
+              texto: 'Construir soluciones colectivas.',
               esCorrecta: true,
             },
-            { id: 'b', texto: 'Aislar comunidades', esCorrecta: false },
-            { id: 'c', texto: 'Reducir derechos', esCorrecta: false },
-            { id: 'd', texto: 'Centralizar decisiones', esCorrecta: false },
+            { id: 'b', texto: 'Aislar comunidades.', esCorrecta: false },
+            { id: 'c', texto: 'Reducir derechos.', esCorrecta: false },
+            { id: 'd', texto: 'Centralizar decisiones.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Excelente! Favorece la construcción colectiva de soluciones en salud.',
@@ -346,10 +350,10 @@ export default {
           imagen: imagenActividad(7),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Exclusión', esCorrecta: false },
-            { id: 'b', texto: 'Aislamiento', esCorrecta: false },
-            { id: 'c', texto: 'Capacidades ciudadanas', esCorrecta: true },
-            { id: 'd', texto: 'Desinformación', esCorrecta: false },
+            { id: 'a', texto: 'Exclusión.', esCorrecta: false },
+            { id: 'b', texto: 'Aislamiento.', esCorrecta: false },
+            { id: 'c', texto: 'Capacidades ciudadanas.', esCorrecta: true },
+            { id: 'd', texto: 'Desinformación.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! La educación fortalece las capacidades para participar activamente.',
@@ -362,14 +366,14 @@ export default {
           imagen: imagenActividad(8),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Hospitales', esCorrecta: false },
+            { id: 'a', texto: 'Hospitales.', esCorrecta: false },
             {
               id: 'b',
-              texto: 'Espacios de participación comunitaria',
+              texto: 'Espacios de participación comunitaria.',
               esCorrecta: true,
             },
-            { id: 'c', texto: 'Medicamentos', esCorrecta: false },
-            { id: 'd', texto: 'EPS', esCorrecta: false },
+            { id: 'c', texto: 'Medicamentos.', esCorrecta: false },
+            { id: 'd', texto: 'EPS.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Muy bien! Son espacios clave para la participación comunitaria en salud.',
@@ -382,14 +386,14 @@ export default {
           imagen: imagenActividad(9),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Reducir ciudadanía', esCorrecta: false },
-            { id: 'b', texto: 'Eliminar instituciones', esCorrecta: false },
+            { id: 'a', texto: 'Reducir ciudadanía.', esCorrecta: false },
+            { id: 'b', texto: 'Eliminar instituciones.', esCorrecta: false },
             {
               id: 'c',
-              texto: 'Mejorar condiciones de salud',
+              texto: 'Mejorar condiciones de salud.',
               esCorrecta: true,
             },
-            { id: 'd', texto: 'Limitar acceso', esCorrecta: false },
+            { id: 'd', texto: 'Limitar acceso.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Correcto! Busca mejorar las condiciones de salud de la población.',
@@ -402,10 +406,10 @@ export default {
           imagen: imagenActividad(10),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Privatización', esCorrecta: false },
-            { id: 'b', texto: 'Exclusión', esCorrecta: false },
-            { id: 'c', texto: 'Participación social', esCorrecta: true },
-            { id: 'd', texto: 'Centralización', esCorrecta: false },
+            { id: 'a', texto: 'Privatización.', esCorrecta: false },
+            { id: 'b', texto: 'Exclusión.', esCorrecta: false },
+            { id: 'c', texto: 'Participación social.', esCorrecta: true },
+            { id: 'd', texto: 'Centralización.', esCorrecta: false },
           ],
           mensaje_correcto:
             '¡Excelente! La participación social es clave para una gobernanza más democrática.',

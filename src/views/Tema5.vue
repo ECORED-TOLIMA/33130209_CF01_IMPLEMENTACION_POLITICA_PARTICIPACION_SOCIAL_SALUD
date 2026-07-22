@@ -27,31 +27,31 @@
           .col-8
             img(src='@/assets/curso/temas/tema5/img4.svg' alt='AvatarTop')
         h5.text-center 1. Identificación de necesidades
-        p.text-center Permite reconocer las problemáticas, expectativas y prioridades de la comunidad, de acuerdo con las condiciones del territorio.
+        p Permite reconocer las problemáticas, expectativas y prioridades de la comunidad, de acuerdo con las condiciones del territorio.
       .tarjeta.color-acento-botones.BG04.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img5.svg' alt='AvatarTop')
         h5.text-center 2. Articulación de actores
-        p.text-center Facilita el trabajo conjunto entre entidades públicas, organizaciones sociales, líderes comunitarios y ciudadanía.
+        p Facilita el trabajo conjunto entre entidades públicas, organizaciones sociales, líderes comunitarios y ciudadanía.
       .tarjeta.color-acento-botones.BG04.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img6.svg' alt='AvatarTop')
         h5.text-center 3. Definición de acciones
-        p.text-center Orienta la planeación de actividades concretas, responsables, recursos y tiempos para el desarrollo de la participación. 
+        p Orienta la planeación de actividades concretas, responsables, recursos y tiempos para el desarrollo de la participación. 
       .tarjeta.color-acento-botones.BG04.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img7.svg' alt='AvatarTop')
         h5.text-center 4. Seguimiento y evaluación
-        p.text-center Permite verificar los avances, identificar dificultades y realizar ajustes para mejorar los procesos participativos.
+        p Permite verificar los avances, identificar dificultades y realizar ajustes para mejorar los procesos participativos.
       .tarjeta.color-acento-botones.BG04.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema5/img8.svg' alt='AvatarTop')
         h5.text-center 5. Fortalecimiento de capacidades
-        p.text-center Contribuye a que la ciudadanía participe de manera informada, responsable y con mayor incidencia en la gestión pública.
+        p Contribuye a que la ciudadanía participe de manera informada, responsable y con mayor incidencia en la gestión pública.
     p La implementación de la participación social requiere una estructura organizada que permita pasar de la intención a la acción. Por esta razón, resulta importante comprender la relación entre el acceso a los servicios, la intervención y el control ciudadanos como elementos que fortalecen la gestión pública y la garantía de derechos.
     p Para ilustrar esta relación, se presenta un recurso que sintetiza tres elementos centrales del proceso participativo:
     .row.justify-content-center.align-items-center.mb-5
@@ -65,7 +65,7 @@
               p.mb-0 Permite que la ciudadanía intervenga en los procesos de planeación, seguimiento y evaluación de las acciones institucionales. Ejemplo: líderes comunitarios participan en una mesa territorial para expresar necesidades, proponer mejoras y priorizar acciones relacionadas con la atención de la población.
           .row(titulo="Control ciudadano")
             .col
-              p.mb-0 Consiste en el seguimiento que realiza la ciudadanía a la gestión pública, al uso de los recursos y al cumplimiento de compromisos institucionales. Ejemplo: una veeduría ciudadana revisa si una entidad cumple los acuerdos establecidos para mejorar la atención en un territorio.[
+              p.mb-0 Consiste en el seguimiento que realiza la ciudadanía a la gestión pública, al uso de los recursos y al cumplimiento de compromisos institucionales. Ejemplo: una veeduría ciudadana revisa si una entidad cumple los acuerdos establecidos para mejorar la atención en un territorio.
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema5/img9.png', alt='Texto que describa la imagen')
@@ -225,33 +225,33 @@
             .h2 1
           p.text-center
             b Nivel nacional
-          p.text-center Ministerio de Salud y Protección Social.
-          p.text-center Orientación de políticas y lineamientos.
+          p Ministerio de Salud y Protección Social.
+          p Orientación de políticas y lineamientos.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-secundario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 2
           p.text-center
             b Nivel departamental
-          p.text-center Secretarías departamentales de salud.
-          p.text-center Coordinación de políticas en el territorio.
+          p Secretarías departamentales de salud.
+          p Coordinación de políticas en el territorio.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-contenido.p-5.h-100
           .tarjeta-numerada__numero
             .h2 3
           p.text-center
             b Nivel municipal
-          p.text-center Secretarías municipales de salud.
-          p.text-center Implementación de acciones de participación.
+          p Secretarías municipales de salud.
+          p Implementación de acciones de participación.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-adicional-1.p-5.h-100
           .tarjeta-numerada__numero
             .h2 4
           p.text-center
             b Nivel comunitario
-          p.text-center Organizaciones sociales.
-          p.text-center Asociaciones de usuarios.
-          p.text-center Comunidad y líderes sociales.
+          p Organizaciones sociales.
+          p Asociaciones de usuarios.
+          p Comunidad y líderes sociales.
 
 
     .row.justify-content-center.align-items-center.mb-4
@@ -300,19 +300,19 @@
               tbody
                 tr
                   td Asociaciones de usuarios.
-                  th Organizaciones conformadas por afiliados al sistema de salud que representan los intereses de los usuarios ante las instituciones prestadoras de servicios de salud.
+                  td Organizaciones conformadas por afiliados al sistema de salud que representan los intereses de los usuarios ante las instituciones prestadoras de servicios de salud.
                 tr
                   td Veedurías ciudadanas.
-                  th Mecanismos de control social mediante los cuales los ciudadanos realizan seguimiento a la gestión pública y al uso de los recursos del sistema de salud.
+                  td Mecanismos de control social mediante los cuales los ciudadanos realizan seguimiento a la gestión pública y al uso de los recursos del sistema de salud.
                 tr
                   td Comités de participación comunitaria en salud (COPACOS).
-                  th Espacios de participación que permiten a la comunidad intervenir en la planeación y seguimiento de las acciones en salud en los territorios.
+                  td Espacios de participación que permiten a la comunidad intervenir en la planeación y seguimiento de las acciones en salud en los territorios.
                 tr
                   td Consejos territoriales de salud.
-                  th Instancias de diálogo y concertación entre autoridades sanitarias, organizaciones sociales y comunidad.
+                  td Instancias de diálogo y concertación entre autoridades sanitarias, organizaciones sociales y comunidad.
                 tr
                   td Audiencias públicas en salud.
-                  th Espacios de rendición de cuentas donde las instituciones informan a la ciudadanía sobre la gestión del sistema de salud.
+                  td Espacios de rendición de cuentas donde las instituciones informan a la ciudadanía sobre la gestión del sistema de salud.
     .row.justify-content-center.mb-4
       .col-lg-10
         .row.justify-content-center.p-4.cajon.color-secundario

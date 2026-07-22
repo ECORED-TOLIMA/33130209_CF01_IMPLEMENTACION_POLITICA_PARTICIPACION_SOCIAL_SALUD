@@ -60,7 +60,7 @@ export default {
           },
           {
             numero: '2.2',
-            titulo: 'Marco conceptual de la participación social',
+            titulo: 'Marco conceptual y enfoques',
             hash: 't_2_2',
           },
           {

@@ -128,7 +128,7 @@
               img(src='@/assets/curso/temas/tema2/img13.svg', alt='Texto que describa la imagen')
           
         h5.text-center Enfoque de derechos
-        p.mb-0.text-center Reconoce a las personas como sujetos de derechos y promueve su participación en las decisiones que afectan su bienestar y calidad de vida.
+        p.mb-0 Reconoce a las personas como sujetos de derechos y promueve su participación en las decisiones que afectan su bienestar y calidad de vida.
       .col-md.tarjeta.cajon.bg5.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -136,7 +136,7 @@
               img(src='@/assets/curso/temas/tema2/img14.svg', alt='Texto que describa la imagen')
           
         h5.text-center Enfoque territorial
-        p.mb-0.text-center Considera las particularidades sociales, culturales y económicas de los territorios, promoviendo procesos de participación que respondan a las necesidades locales.
+        p.mb-0 Considera las particularidades sociales, culturales y económicas de los territorios, promoviendo procesos de participación que respondan a las necesidades locales.
       .col-md.tarjeta.bg1.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -144,7 +144,7 @@
               img(src='@/assets/curso/temas/tema2/img15.svg', alt='Texto que describa la imagen')
           
         h5.text-center Enfoque comunitario
-        p.mb-0.text-center Fortalece el papel de las comunidades en la identificación de problemáticas, en la construcción de soluciones colectivas y en el desarrollo de acciones para mejorar la salud y el bienestar.
+        p.mb-0 Fortalece el papel de las comunidades en la identificación de problemáticas, en la construcción de soluciones colectivas y en el desarrollo de acciones para mejorar la salud y el bienestar.
       .col-md.tarjeta.bg2.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -152,7 +152,7 @@
               img(src='@/assets/curso/temas/tema2/img16.svg', alt='Texto que describa la imagen')
           
         h5.text-center Enfoque intersectorial
-        p.mb-0.text-center Promueve la articulación entre diferentes sectores institucionales y sociales para abordar de manera integral los determinantes sociales de la salud.
+        p.mb-0 Promueve la articulación entre diferentes sectores institucionales y sociales para abordar de manera integral los determinantes sociales de la salud.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.cajon.color-secundario.mb-4

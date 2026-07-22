@@ -144,6 +144,16 @@
 .pasos-b__header__item--active .pasos-b__header__item__line-container:before
   background-color: #9D9D9D
 
+// Oculta los controles que no tienen una navegacion disponible.
+// Se usa visibility para conservar la alineacion del encabezado.
+.pasos-b__header:has(.pasos-b__header__item:first-child.pasos-b__header__item--active)
+  .pasos-b__header__btn--left
+    visibility: hidden
+
+.pasos-b__header:has(.pasos-b__header__item:last-child.pasos-b__header__item--active)
+  .pasos-b__header__btn--right
+    visibility: hidden
+
 
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
   background-color: #FFE6E7
@@ -192,3 +202,9 @@
   margin-inline: -3.5rem !important
   @media (max-width: $bp-max-sm)
     margin-inline: -1.5rem !important
+
+.creditos table td, .creditos table th
+  text-align: left
+
+table td
+  text-align: left

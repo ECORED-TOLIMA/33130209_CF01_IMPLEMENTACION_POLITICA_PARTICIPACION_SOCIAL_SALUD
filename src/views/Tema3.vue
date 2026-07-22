@@ -67,34 +67,33 @@
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema3/img7.svg' alt='AvatarTop')
-        br
-        h5.text-center Derecho fundamental a la salud
-        p.mb-5.text-center Se reconoce la salud como un derecho fundamental autónomo que debe ser garantizado por el Estado y que implica el acceso oportuno, eficaz y de calidad a los servicios de salud.
+        h5.text-center  Derecho fundamental a la salud
+        p.mb-5  Se reconoce la salud como un derecho fundamental autónomo que debe ser garantizado por el Estado y que implica el acceso oportuno, eficaz y de calidad a los servicios de salud.
       
       .tarjeta.BG04.p-4 
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema3/img8.svg' alt='AvatarTop')
-        h5.text-center Integralidad de la atención
-        p.text-center La atención en salud debe contemplar todas las acciones necesarias para la promoción, prevención, diagnóstico, tratamiento, rehabilitación y cuidados paliativos, garantizando un enfoque integral en la atención de las personas.
+        h5.text-center  Integralidad de la atención
+        p  La atención en salud debe contemplar todas las acciones necesarias para la promoción, prevención, diagnóstico, tratamiento, rehabilitación y cuidados paliativos, garantizando un enfoque integral en la atención de las personas.
       .tarjeta.BG04.p-4 
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema3/img9.svg' alt='AvatarTop')
-        h5.text-center Acceso equitativo a los servicios de salud
-        p.text-center Todas las personas deben tener acceso a los servicios de salud sin discriminación, garantizando condiciones de igualdad y equidad en el sistema.
+        h5.text-center  Acceso equitativo a los servicios de salud
+        p  Todas las personas deben tener acceso a los servicios de salud sin discriminación, garantizando condiciones de igualdad y equidad en el sistema.
       .tarjeta.BG04.p-4 
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema3/img10.svg' alt='AvatarTop')
-        h5.text-center Participación social
-        p.text-center La ciudadanía tiene derecho a participar en las decisiones relacionadas con la organización y funcionamiento del sistema de salud, así como en los procesos de control social.
+        h5.text-center  Participación social
+        p  La ciudadanía tiene derecho a participar en las decisiones relacionadas con la organización y funcionamiento del sistema de salud, así como en los procesos de control social.
       .tarjeta.BG04.p-4 
         .row.justify-content-center.mb-3
           .col-5
             img(src='@/assets/curso/temas/tema3/img12.svg' alt='AvatarTop')
-        h5.text-center Determinantes sociales de la salud
-        p.text-center La ley reconoce que la salud está influenciada por factores sociales, económicos, ambientales y culturales, los cuales deben ser considerados en la formulación de políticas públicas.
+        h5.text-center  Determinantes sociales de la salud
+        p  La ley reconoce que la salud está influenciada por factores sociales, económicos, ambientales y culturales, los cuales deben ser considerados en la formulación de políticas públicas.
     .row.justify-content-center.align-items-center
       .col-lg-10
         .p-4.cajon.color-secundario
@@ -128,28 +127,28 @@
             .h2 1
           p.text-center
             b Disponibilidad
-          p.text-center Existencia suficiente de servicios, instituciones, programas, personal de salud, tecnologías y recursos necesarios para atender las necesidades de la población.
+          p Existencia suficiente de servicios, instituciones, programas, personal de salud, tecnologías y recursos necesarios para atender las necesidades de la población.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-secundario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 2
           p.text-center
             b Accesibilidad
-          p.text-center Posibilidad real de que todas las personas puedan acceder a los servicios de salud sin discriminación.
+          p Posibilidad real de que todas las personas puedan acceder a los servicios de salud sin discriminación.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-acento-contenido.p-5.h-100
           .tarjeta-numerada__numero
             .h2 3
           p.text-center
             b Aceptabilidad
-          p.text-center Los servicios de salud deben ser respetuosos de los valores culturales, sociales y éticos de las personas y las comunidades.
+          p Los servicios de salud deben ser respetuosos de los valores culturales, sociales y éticos de las personas y las comunidades.
       .col-md-6.col-xl.mb-4.mb-xl-0
         .tarjeta-numerada.color-adicional-1.p-5.h-100
           .tarjeta-numerada__numero
             .h2 4
           p.text-center
             b Calidad
-          p.text-center Los servicios de salud deben prestarse con estándares científicos, técnicos y humanos que garanticen la seguridad del paciente y la eficacia de las intervenciones en salud.
+          p Los servicios de salud deben prestarse con estándares científicos, técnicos y humanos que garanticen la seguridad del paciente y la eficacia de las intervenciones en salud.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10

@@ -62,7 +62,7 @@
           p(numero="3" titulo="Corresponsabilidad")
             | Reconoce que la garantía del derecho a la salud requiere el compromiso conjunto del Estado, las instituciones, las organizaciones sociales y la ciudadanía. Este principio permite distribuir responsabilidades y fortalecer acciones sostenibles para mejorar las condiciones de salud en los territorios.
           p(numero="4" titulo="Gestión territorial")
-            | Orienta la implementación de la política según las condiciones sociales, culturales, económicas e institucionales de cada territorio. Este enfoque permite adaptar las acciones participativas a las necesidades locales y fortalecer respuestas más pertinentes, incluyentes y cercanas a la comunidad
+            | Orienta la implementación de la política según las condiciones sociales, culturales, económicas e institucionales de cada territorio. Este enfoque permite adaptar las acciones participativas a las necesidades locales y fortalecer respuestas más pertinentes, incluyentes y cercanas a la comunidad.
     p En síntesis, la Política de Participación Social en Salud fortalece la relación entre ciudadanía e instituciones, al promover procesos de diálogo, control social y corresponsabilidad. Su aplicación contribuye a una gestión pública más transparente, participativa y orientada a la garantía efectiva del derecho fundamental a la salud.
     .row.justify-content-center.align-items-center
       .col-lg-10
@@ -152,7 +152,7 @@
               img(src='@/assets/curso/temas/tema4/img13.svg', alt='Texto que describa la imagen')
           
         h5.text-center Equidad
-        p.mb-0.text-center Busca reducir las desigualdades que limitan la participación de la ciudadanía en los asuntos públicos. Este principio permite reconocer las diferencias sociales, territoriales y culturales, con el fin de promover condiciones más justas para el acceso a los espacios de decisión y gestión.
+        p.mb-0 Busca reducir las desigualdades que limitan la participación de la ciudadanía en los asuntos públicos. Este principio permite reconocer las diferencias sociales, territoriales y culturales, con el fin de promover condiciones más justas para el acceso a los espacios de decisión y gestión.
       .col-md.tarjeta.bg5.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -160,7 +160,7 @@
               img(src='@/assets/curso/temas/tema4/img14.svg', alt='Texto que describa la imagen')
           
         h5.text-center Inclusión
-        p.mb-0.text-center Garantiza la intervención de los diferentes grupos poblacionales en los procesos participativos. Su aplicación favorece que comunidades rurales, personas mayores, jóvenes, mujeres, población con discapacidad y otros grupos puedan expresar sus necesidades, aportar propuestas y participar en la construcción de soluciones.
+        p.mb-0 Garantiza la intervención de los diferentes grupos poblacionales en los procesos participativos. Su aplicación favorece que comunidades rurales, personas mayores, jóvenes, mujeres, población con discapacidad y otros grupos puedan expresar sus necesidades, aportar propuestas y participar en la construcción de soluciones.
       .col-md.tarjeta.bg1.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -168,7 +168,7 @@
               img(src='@/assets/curso/temas/tema4/img15.svg', alt='Texto que describa la imagen')
           
         h5.text-center Transparencia
-        p.mb-0.text-center Favorece el acceso claro, oportuno y comprensible a la información pública. Este principio permite que la ciudadanía conozca las decisiones, los recursos y los resultados de la gestión institucional, fortaleciendo la confianza, el seguimiento ciudadano y la rendición de cuentas.
+        p.mb-0 Favorece el acceso claro, oportuno y comprensible a la información pública. Este principio permite que la ciudadanía conozca las decisiones, los recursos y los resultados de la gestión institucional, fortaleciendo la confianza, el seguimiento ciudadano y la rendición de cuentas.
       .col-md.tarjeta.bg2.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -176,7 +176,7 @@
               img(src='@/assets/curso/temas/tema4/img16.svg', alt='Texto que describa la imagen')
           
         h5.text-center Corresponsabilidad
-        p.mb-0.text-center Promueve el compromiso conjunto entre el Estado, las instituciones, las organizaciones sociales y la ciudadanía. Este principio reconoce que la garantía del derecho a la salud requiere acciones compartidas, participación activa y acuerdos orientados al bienestar colectivo en los territorios.
+        p.mb-0 Promueve el compromiso conjunto entre el Estado, las instituciones, las organizaciones sociales y la ciudadanía. Este principio reconoce que la garantía del derecho a la salud requiere acciones compartidas, participación activa y acuerdos orientados al bienestar colectivo en los territorios.
     .row.justify-content-center.align-items-center
       .col-lg-10
         p La comprensión de estos principios permite reconocer que la participación social requiere condiciones de equidad, inclusión, transparencia y corresponsabilidad. Su aplicación fortalece la relación entre las instituciones y la ciudadanía, promueve procesos más organizados y contribuye a una gestión pública orientada al bienestar colectivo.

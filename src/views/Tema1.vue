@@ -26,31 +26,31 @@
           .col-8
             img(src='@/assets/curso/temas/tema1/img2.svg' alt='AvatarTop')
         h5.text-center Reconocimiento de derechos
-        p.text-center Establece la salud y la participación ciudadana como derechos vinculados con la dignidad humana, el bienestar colectivo y la gestión pública.
+        p Establece la salud y la participación ciudadana como derechos vinculados con la dignidad humana, el bienestar colectivo y la gestión pública.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img3.svg' alt='AvatarTop')
         h5.text-center Organización normativa
-        p.text-center Integra disposiciones constitucionales, legales y reglamentarias que orientan la actuación de las instituciones y de la ciudadanía en el sector salud.
+        p Integra disposiciones constitucionales, legales y reglamentarias que orientan la actuación de las instituciones y de la ciudadanía en el sector salud.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img4.svg' alt='AvatarTop')
         h5.text-center Participación ciudadana
-        p.text-center Promueve la intervención activa de la comunidad en la planeación, ejecución, seguimiento y evaluación de las políticas públicas en salud. 
+        p Promueve la intervención activa de la comunidad en la planeación, ejecución, seguimiento y evaluación de las políticas públicas en salud. 
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img5.svg' alt='AvatarTop')
         h5.text-center Control social
-        p.text-center Permite que la ciudadanía realice seguimiento a la gestión pública, al uso de los recursos y al cumplimiento de las acciones en salud.
+        p Permite que la ciudadanía realice seguimiento a la gestión pública, al uso de los recursos y al cumplimiento de las acciones en salud.
       .tarjeta.BG04.p-4
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/img6.svg' alt='AvatarTop')
         h5.text-center Corresponsabilidad
-        p.text-center Fortalece el compromiso compartido entre el Estado, las instituciones, las organizaciones sociales y la comunidad para garantizar el derecho a la salud.
+        p Fortalece el compromiso compartido entre el Estado, las instituciones, las organizaciones sociales y la comunidad para garantizar el derecho a la salud.
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-10
         .p-4.cajon.color-primario
@@ -73,39 +73,39 @@
                   th Alcance principal
               tbody
                 tr
-                  th Declaración Universal de los Derechos Humanos
+                  td Declaración Universal de los Derechos Humanos
                   td 1948
                   td Reconoce el derecho de toda persona a un nivel de vida adecuado que garantice su salud y bienestar.
                 tr
-                  th Pacto Internacional de Derechos Económicos, Sociales y Culturales
+                  td Pacto Internacional de Derechos Económicos, Sociales y Culturales
                   td 1966
                   td Establece el derecho al disfrute del más alto nivel posible de salud física y mental.
                 tr
-                  th Constitución Política de Colombia
+                  td Constitución Política de Colombia
                   td 1991
                   td Reconoce la participación ciudadana como principio fundamental y establece la responsabilidad del Estado en la garantía del derecho a la salud.
                 tr
-                  th Decreto 1757 de 1994
+                  td Decreto 1757 de 1994
                   td 1994
                   td Regula la participación social en el sistema de salud y establece mecanismos de participación comunitaria.
                 tr
-                  th Ley 100 de 1993
+                  td Ley 100 de 1993
                   td 1993
                   td Crea el Sistema General de Seguridad Social en Salud e incorpora mecanismos de participación comunitaria y control social.
                 tr
-                  th Ley 1438 de 2011
+                  td Ley 1438 de 2011
                   td 2011
                   td Fortalece el Sistema General de Seguridad Social en Salud, promueve la atención primaria en salud y la participación social.
                 tr
-                  th Ley 1751 de 2015
+                  td Ley 1751 de 2015
                   td 2015
                   td Reconoce la salud como un derecho fundamental autónomo e irrenunciable e incorpora la participación social como principio del sistema de salud.
                 tr
-                  th Ley 1757 de 2015
+                  td Ley 1757 de 2015
                   td 2015
                   td Regula los mecanismos de participación ciudadana en la gestión pública, incluyendo el control social.
                 tr
-                  th Resolución 2063 de 2017 del Ministerio de Salud y Protección Social
+                  td Resolución 2063 de 2017 del Ministerio de Salud y Protección Social
                   td 2017
                   td Adopta la Política de Participación Social en Salud y establece lineamientos para fortalecer la participación ciudadana en la gestión del sistema de salud.
     .row.justify-content-center.align-items-center
