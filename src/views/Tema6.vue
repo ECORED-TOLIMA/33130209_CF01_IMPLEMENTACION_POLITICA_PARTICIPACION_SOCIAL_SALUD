@@ -453,7 +453,7 @@
       .col-lg-4.col-8.mb-4.mb-lg-0.order-1.order-lg-2
         figure
           img(src='@/assets/curso/temas/tema6/img39.png', alt='')
-    p A partir del fortalecimiento de la formación ciudadana, resulta necesario analizar el rol de las instituciones y la comunidad. Estos actores cumplen funciones esenciales para garantizar espacios de participación, promover el diálogo y sostener procesos participativos en los territorios.
+    p.mb-0 A partir del fortalecimiento de la formación ciudadana, resulta necesario analizar el rol de las instituciones y la comunidad. Estos actores cumplen funciones esenciales para garantizar espacios de participación, promover el diálogo y sostener procesos participativos en los territorios.
     Separador
     #t_6_5.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 6.5 Rol de las instituciones y la comunidad
