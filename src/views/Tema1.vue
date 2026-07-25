@@ -171,15 +171,15 @@
             template(v-slot:imagen)
               figure
                 img(src='@/assets/curso/temas/tema1/img14.svg', alt='Infografía de matriz RACI')
-            .tarjeta.color-secundario.p-3(x="6%" y="88%" numero="+")
+            .tarjeta.color-primario.p-3(x="6%" y="88%" numero="+")
               p Organiza el Sistema General de Seguridad Social en Salud e incorpora la participación comunitaria.
-            .tarjeta.color-secundario.p-3(x="23%" y="23%" numero="+")
+            .tarjeta.color-primario.p-3(x="23%" y="23%" numero="+")
               p Regula las veedurías ciudadanas para vigilar la gestión pública y los recursos.
-            .tarjeta.color-secundario.p-3(x="39%" y="88%" numero="+")
+            .tarjeta.color-primario.p-3(x="39%" y="88%" numero="+")
               p Fortalece el sistema de salud y promueve la atención primaria y la participación social.
-            .tarjeta.color-secundario.p-3(x="52%" y="23%" numero="+")
+            .tarjeta.color-primario.p-3(x="52%" y="23%" numero="+")
               p Reconoce la salud como derecho fundamental y vincula la participación ciudadana con su garantía.
-            .tarjeta.color-secundario.p-3(x="71%" y="88%" numero="+")
+            .tarjeta.color-primario.p-3(x="71%" y="88%" numero="+")
               p Adopta la Política de Participación Social en Salud y orienta su implementación.
         .d-block.d-lg-none.mb-4
           figure
